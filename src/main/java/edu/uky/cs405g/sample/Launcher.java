@@ -23,8 +23,8 @@ public class Launcher {
 
         //Database Client initialization
         //May need to have your personal username and password here
-        String DBuser = "amsa259";
-        String DBpassword = "mordisfun";
+        String DBuser = "yourusername";
+        String DBpassword = "yourpassword";
         //for your laptop DBhost = "localhost", for your VM instance DBhost = [your account].cs.uky.edu
         String DBhost = "localhost";
         String DBname = "SMPDB";
